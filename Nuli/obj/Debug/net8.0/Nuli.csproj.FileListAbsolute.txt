@@ -1,0 +1,14 @@
+C:\Users\glagol\source\repos\Nuli\Nuli\bin\Debug\net8.0\Nuli.exe
+C:\Users\glagol\source\repos\Nuli\Nuli\bin\Debug\net8.0\Nuli.deps.json
+C:\Users\glagol\source\repos\Nuli\Nuli\bin\Debug\net8.0\Nuli.runtimeconfig.json
+C:\Users\glagol\source\repos\Nuli\Nuli\bin\Debug\net8.0\Nuli.dll
+C:\Users\glagol\source\repos\Nuli\Nuli\bin\Debug\net8.0\Nuli.pdb
+C:\Users\glagol\source\repos\Nuli\Nuli\obj\Debug\net8.0\Nuli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glagol\source\repos\Nuli\Nuli\obj\Debug\net8.0\Nuli.AssemblyInfoInputs.cache
+C:\Users\glagol\source\repos\Nuli\Nuli\obj\Debug\net8.0\Nuli.AssemblyInfo.cs
+C:\Users\glagol\source\repos\Nuli\Nuli\obj\Debug\net8.0\Nuli.csproj.CoreCompileInputs.cache
+C:\Users\glagol\source\repos\Nuli\Nuli\obj\Debug\net8.0\Nuli.dll
+C:\Users\glagol\source\repos\Nuli\Nuli\obj\Debug\net8.0\refint\Nuli.dll
+C:\Users\glagol\source\repos\Nuli\Nuli\obj\Debug\net8.0\Nuli.pdb
+C:\Users\glagol\source\repos\Nuli\Nuli\obj\Debug\net8.0\Nuli.genruntimeconfig.cache
+C:\Users\glagol\source\repos\Nuli\Nuli\obj\Debug\net8.0\ref\Nuli.dll
